@@ -37,9 +37,9 @@
 
 ## 📫 Connect With Me  
 <p align="left">
-  <a href="https://www.linkedin.com/in/umer-rafique" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:youremail@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://yourportfolio.com" target="_blank"><img src="https://skillicons.dev/icons?i=wordpress" /></a>
+  <a href="https://www.linkedin.com/in/csmuhammadumer" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:umer@muhammadumerr.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://www.muhammadumerr.com" target="_blank"><img src="https://skillicons.dev/icons?i=wordpress" /></a>
 </p>  
 
 ---
